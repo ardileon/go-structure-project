@@ -1,4 +1,5 @@
 package main // karena didalam folder root atau sesuai nama didalam direktori atau sesuai func atau juga sesaui dengan kebutuhan aja
+// pada sebuah project cuma ada satul file yang memakai package main
 
 import (
 	"fmt"
@@ -13,7 +14,6 @@ func main() {
 	tembak.UcapFps()
 	dark.SayHorrorDark()
 	horror.SayHelloHorror()
-	// BanyakGenre()
 	horror.KategoriHorror()
-
+	// fmt.Println(BanyakGenre())
 }

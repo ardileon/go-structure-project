@@ -1,8 +1,5 @@
 package main
 
-import "fmt"
-
-func BanyakGenre() {
-	var hasil int = 1 + 2
-	fmt.Println(hasil)
+func BanyakGenre() int {
+	return 1 + 2
 }
