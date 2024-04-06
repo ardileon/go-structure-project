@@ -1,4 +1,4 @@
-package fps
+package tembak
 
 import "fmt"
 

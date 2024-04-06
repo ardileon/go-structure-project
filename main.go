@@ -7,6 +7,4 @@ import (
 func main() {
 	fmt.Println("Structure Project di dalam golang!")
 
-	fps.sayHello()
-
 }
