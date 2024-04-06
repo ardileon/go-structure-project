@@ -2,6 +2,6 @@ package horror
 
 import "fmt"
 
-func sayHello() {
+func SayHelloHorror() {
 	fmt.Println("Hello ini adalah game horror dengan judul game lethalCompany")
 }

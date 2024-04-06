@@ -2,6 +2,6 @@ package dark
 
 import "fmt"
 
-func sayHello() {
+func SayHorrorDark() {
 	fmt.Println("Hello ini adalah game outlast dari genre game dark dari turunan dari horror")
 }

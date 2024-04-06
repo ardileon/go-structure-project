@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
-func genreSays() {
-	fmt.Println("Terdapat sebuah genre pada video game berupa:....")
+func BanyakGenre() {
+	var hasil int = 1 + 2
+	fmt.Println(hasil)
 }

@@ -2,11 +2,18 @@ package main // karena didalam folder root atau sesuai nama didalam direktori at
 
 import (
 	"fmt"
+
+	"github.com/ardileon/go-structure-project/horror"
+	"github.com/ardileon/go-structure-project/horror/dark"
+	"github.com/ardileon/go-structure-project/tembak"
 )
 
 func main() {
 	fmt.Println("Structure Project di dalam golang!")
-
-	tembak.sayHello()
+	tembak.UcapFps()
+	dark.SayHorrorDark()
+	horror.SayHelloHorror()
+	// BanyakGenre()
+	horror.KategoriHorror()
 
 }
